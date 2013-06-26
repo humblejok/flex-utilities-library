@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="org.jok.flex.utility.date.DateCalculationUtil"/>
+    <classEntry path="org.jok.flex.utility.number.NumberFormatter"/>
+    <classEntry path="org.jok.flex.utility.math.ExtendedMath"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
